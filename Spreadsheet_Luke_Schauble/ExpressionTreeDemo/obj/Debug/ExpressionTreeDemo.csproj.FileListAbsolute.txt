@@ -1,0 +1,21 @@
+C:\Users\schau\OneDrive\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\obj\Debug\ExpressionTreeDemo.csproj.AssemblyReference.cache
+C:\Users\schau\OneDrive\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\obj\Debug\ExpressionTreeDemo.csproj.CoreCompileInputs.cache
+C:\Users\schau\OneDrive\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\bin\Debug\ExpressionTreeDemo.exe.config
+C:\Users\schau\OneDrive\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\bin\Debug\ExpressionTreeDemo.exe
+C:\Users\schau\OneDrive\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\bin\Debug\ExpressionTreeDemo.pdb
+C:\Users\schau\OneDrive\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\bin\Debug\SpreadsheetEngine.dll
+C:\Users\schau\OneDrive\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\schau\OneDrive\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\obj\Debug\ExpressionTreeDemo.csproj.CopyComplete
+C:\Users\schau\OneDrive\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\obj\Debug\ExpressionTreeDemo.exe
+C:\Users\schau\OneDrive\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\obj\Debug\ExpressionTreeDemo.pdb
+C:\Users\schau\OneDrive\School\WSU 18-19\Year Four\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\bin\Debug\ExpressionTreeDemo.exe.config
+C:\Users\schau\OneDrive\School\WSU 18-19\Year Four\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\bin\Debug\ExpressionTreeDemo.exe
+C:\Users\schau\OneDrive\School\WSU 18-19\Year Four\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\bin\Debug\ExpressionTreeDemo.pdb
+C:\Users\schau\OneDrive\School\WSU 18-19\Year Four\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\bin\Debug\SpreadsheetEngine.dll
+C:\Users\schau\OneDrive\School\WSU 18-19\Year Four\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\schau\OneDrive\School\WSU 18-19\Year Four\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\obj\Debug\ExpressionTreeDemo.csproj.AssemblyReference.cache
+C:\Users\schau\OneDrive\School\WSU 18-19\Year Four\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\obj\Debug\ExpressionTreeDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\schau\OneDrive\School\WSU 18-19\Year Four\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\obj\Debug\ExpressionTreeDemo.csproj.CoreCompileInputs.cache
+C:\Users\schau\OneDrive\School\WSU 18-19\Year Four\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\obj\Debug\ExpressionTreeDemo.csproj.CopyComplete
+C:\Users\schau\OneDrive\School\WSU 18-19\Year Four\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\obj\Debug\ExpressionTreeDemo.exe
+C:\Users\schau\OneDrive\School\WSU 18-19\Year Four\CPTS_321\CPTS321_HW\cpts321-hw\HW4Schauble\Spreadsheet_Luke_Schauble\ExpressionTreeDemo\obj\Debug\ExpressionTreeDemo.pdb

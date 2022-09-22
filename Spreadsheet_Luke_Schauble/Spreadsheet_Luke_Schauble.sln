@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spreadsheet_Luke_Schauble", "Spreadsheet_Luke_Schauble\Spreadsheet_Luke_Schauble.csproj", "{EF4D2B84-7708-445C-9EBA-8EE96D1017C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetEngine", "SpreadsheetEngine\SpreadsheetEngine.csproj", "{93F9EE7C-797E-4244-A9EC-E5C81313DF9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Tests1", "NUnit.Tests1\NUnit.Tests1.csproj", "{8EDF4429-251A-416D-BB68-93F227191BCF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0035B1A4-CBD9-46FA-8C2C-68CBAD7C57DD}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionTreeDemo", "ExpressionTreeDemo\ExpressionTreeDemo.csproj", "{D087EDBE-17F3-452D-80DA-1538E4C3E497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit.Tests2", "NUnit.Tests2\NUnit.Tests2.csproj", "{33C00008-5355-4D47-8A10-BD3329B5EAD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF4D2B84-7708-445C-9EBA-8EE96D1017C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4D2B84-7708-445C-9EBA-8EE96D1017C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4D2B84-7708-445C-9EBA-8EE96D1017C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4D2B84-7708-445C-9EBA-8EE96D1017C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93F9EE7C-797E-4244-A9EC-E5C81313DF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F9EE7C-797E-4244-A9EC-E5C81313DF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F9EE7C-797E-4244-A9EC-E5C81313DF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F9EE7C-797E-4244-A9EC-E5C81313DF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDF4429-251A-416D-BB68-93F227191BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D087EDBE-17F3-452D-80DA-1538E4C3E497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D087EDBE-17F3-452D-80DA-1538E4C3E497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D087EDBE-17F3-452D-80DA-1538E4C3E497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D087EDBE-17F3-452D-80DA-1538E4C3E497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C00008-5355-4D47-8A10-BD3329B5EAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C00008-5355-4D47-8A10-BD3329B5EAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C00008-5355-4D47-8A10-BD3329B5EAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C00008-5355-4D47-8A10-BD3329B5EAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D766F8A-4AF9-4086-B748-2F7F12B965CA}
+	EndGlobalSection
+EndGlobal
